@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+
+# ChromaDB
+backend/vectorstore/
+
+# Uploaded docs
+backend/data/docs/
+
+# Node
+node_modules/
+dist/
+.env
+
+# IDE
+.vscode/
+.idea/
